@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no">
 	<meta name="format-detection" content="date=no">
-	<link rel="stylesheet" href="css/lcars.css">
+	<link rel="stylesheet" type="text/css" href="assets/classic.css">
 </head>
 <body>
 	<audio id="audio1" src="assets/beep1.mp3" preload="auto"></audio>
