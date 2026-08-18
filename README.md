@@ -1,4 +1,3 @@
-# sylvi-eons.github.io
 <!DOCTYPE html>
 <html>
 <head>
